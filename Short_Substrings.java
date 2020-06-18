@@ -2,7 +2,7 @@ import java.io.*;
 import java.util.*;
 public class Main{
  
-// https://codeforces.com/contest/1367/problem/A
+// https://codeforces.com/contest/1367/problem/A  
 
 public static void main(String[] args) {
     
