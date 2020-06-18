@@ -24,7 +24,7 @@ public static void main(String[] args) {
         {
             if(res[i]=='1')
                 fill=i;
-            nexttable[i]=fill;
+            nexttable[i]=fill; 
         }
         int prev=-1;
         int count=0;
