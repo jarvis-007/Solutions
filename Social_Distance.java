@@ -3,7 +3,7 @@ import java.util.*;
 public class Main{
 
 //https://codeforces.com/contest/1367/problem/C
-//Social Distance
+//Social Distance  
 
 public static void main(String[] args) {
     
